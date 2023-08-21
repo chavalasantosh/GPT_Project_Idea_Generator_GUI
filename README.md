@@ -1,0 +1,1 @@
+# GPT_Project_Idea_Generator_GUI
